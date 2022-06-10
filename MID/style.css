@@ -2,13 +2,13 @@ body {
     height: 100vh;
     display: grid;
     place-items: center;
-    background-color: rgb(225, 225, 225);
+    background-image: url('http://www.51pptmoban.com/d/file/2022/02/19/339a12750826f96805f01ae41cfed9c7.jpg');
 }
 
 .calendar {
     height: 500px;
     width: 500px;
-    background-color: rgb(116, 116, 116);
+    background: #414847a3;
     border-radius: 30px;
     padding: 20px;
     position: relative;
