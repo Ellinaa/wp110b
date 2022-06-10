@@ -2,7 +2,7 @@ body {
     height: 100vh;
     display: grid;
     place-items: center;
-    background-image: url('http://www.51pptmoban.com/d/file/2022/02/19/339a12750826f96805f01ae41cfed9c7.jpg');
+    background-image: url("http://www.51pptmoban.com/d/file/2022/02/19/339a12750826f96805f01ae41cfed9c7.jpg");
 }
 
 .calendar {
