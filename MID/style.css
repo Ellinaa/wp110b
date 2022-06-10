@@ -3,6 +3,10 @@ body {
     display: grid;
     place-items: center;
     background-image: url('https://static.vecteezy.com/system/resources/previews/001/409/736/original/aurora-borealis-nocturnal-sky-free-vector.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
 }
 
 .calendar {
