@@ -8,5 +8,5 @@ function isPrime(number) {
         }
         return isPrime;
     }
-
+console.log(isPrime(17));
 console.log(isPrime(21));
