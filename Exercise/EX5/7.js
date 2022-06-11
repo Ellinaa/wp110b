@@ -9,3 +9,5 @@ function transpose(a){
   }             
   return arrays;
 }
+console.log("transpose([[1,2,3], [3,2,1]]) =>",transpose([[1,2,3], [3,2,1]]));
+
