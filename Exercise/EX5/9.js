@@ -5,4 +5,4 @@ function fib(n) {
   }
   return arr[n];
 }
-console.log(fib(7));
+console.log("f(7) =>",fib(7));
