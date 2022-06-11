@@ -12,13 +12,11 @@ class Ratio{
     sub(o2){
         return this.r * o2.i - o2.r * this.i +"/"+ this.i * o2.i;
     }
-    mul(o2)
-    {
+    mul(o2){
         return new Ratio(this.r * o2.r, this.i * o2.i);
     }
 
-    div(o2)
-    {
+    div(o2){
         return new Ratio(this.r * o2.i, this.i * o2.r);
     }
 }
