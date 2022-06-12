@@ -1,5 +1,7 @@
 ## 本程式修改自https://www.youtube.com/watch?v=_bTqiNUlSL0
 ***
+### 功能:
+
 ### 修改內容:
 
 * 背景加入圖片
