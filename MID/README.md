@@ -69,7 +69,7 @@ document.querySelector('#next-year').onclick = () => {
 ```
 
 
-### 修改內容:
+### 修改內容（大約10%）:
 
 * 背景加入圖片
 
